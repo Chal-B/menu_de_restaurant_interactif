@@ -90,7 +90,7 @@ menu_de restaurant_interactif/
 
 ## 📬 Contact
 
-**MALONGA Saint Chalbhery** — [GitHub @Chal-B](https://github.com/Chal-B) — saintmlg@icloud.com
+**MALONGA Saint Chalbhery** — [GitHub @Chal-B](https://github.com/Chal-B) — [LinkedIn](https://www.linkedin.com/in/saint-chalbhery-malonga-2784253b2) — saintmlg@icloud.com
 
 Lien du projet : [https://github.com/Chal-B/menu_de_restaurant_interactif](https://github.com/Chal-B/menu_de_restaurant_interactif)
 
