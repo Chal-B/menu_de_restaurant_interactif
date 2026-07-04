@@ -9,7 +9,6 @@
 [![Akieni Academy](https://img.shields.io/badge/Akieni-Academy-2563eb?style=flat-square)](https://akieni.com)
 [![W3C](https://img.shields.io/badge/W3C-Validé-22c55e?style=flat-square)](https://validator.w3.org/)
 
-[![Licence](https://img.shields.io/badge/licence-MIT-blue.svg)](#-licence)
 [![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](#)
 [![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)
 [![Stars](https://img.shields.io/github/stars/Chal-B/menu_de_restaurant_interactif?style=social)](https://github.com/Chal-B/menu_de_restaurant_interactif)
@@ -31,7 +30,6 @@
 - [Technologies utilisées](#-technologies-utilisées)
 - [Tests](#-tests)
 - [Contribuer](#-contribuer)
-- [Licence](#-licence)
 - [Contact](#-contact)
 
 ---
